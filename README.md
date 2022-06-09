@@ -15,6 +15,10 @@ You can reach me through these platforms:
 - LinkedIn: [Kevin Karnadi](https://www.linkedin.com/in/kevinkarnadi)
 - Instagram: [@kevinkarnadi_](https://www.instagram.com/kevinkarnadi_)
 
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKarnadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **KevinKarnadi/KevinKarnadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
