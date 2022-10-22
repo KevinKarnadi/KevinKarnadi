@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Kevin. I'm from Indonesia, and is currently pursuing a bachelor's degree in Electrical Engineering & Computer Science at National Tsing Hua University, Taiwan.
+My name is Kevin. I'm from Indonesia, and I'm currently pursuing a bachelor's degree in Electrical Engineering & Computer Science at National Tsing Hua University, Taiwan. My fields of interest include Software Engineering, Machine Learning, and Data Science.
 
 <!--## Highlighted Projects-->
 
